@@ -78,10 +78,10 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="greenLightView" destination="exR-QY-Rof" id="ORQ-qm-vtP"/>
-                        <outlet property="redLightView" destination="qx6-4f-OmV" id="g2x-st-XMv"/>
+                        <outlet property="greenLightView" destination="exR-QY-Rof" id="aqT-YV-1fH"/>
+                        <outlet property="redLightView" destination="qx6-4f-OmV" id="kgh-gX-qf7"/>
                         <outlet property="startButton" destination="Vha-t1-SAE" id="rDx-t1-jJe"/>
-                        <outlet property="yellowLightView" destination="Q8Q-Vv-erh" id="ibA-mB-IgA"/>
+                        <outlet property="yellowLightView" destination="Q8Q-Vv-erh" id="chi-gY-DSp"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
